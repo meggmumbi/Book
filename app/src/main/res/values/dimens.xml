@@ -2,4 +2,5 @@
 <resources>
     <dimen name="title_size">20sp</dimen>
     <dimen name="authors_size">18sp</dimen>
+    <dimen name="standard_dimension">16dp</dimen>
 </resources>
